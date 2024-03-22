@@ -1,0 +1,18 @@
+{
+  "name": "word-creater-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.46.0",
+    "fs": "^0.0.1-security",
+    "jszip": "^2.6.0",
+    "node-telegram-bot-api": "^0.65.0",
+    "pizzip": "^3.1.6"
+  }
+}
